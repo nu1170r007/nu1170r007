@@ -1,1 +1,2 @@
 - 👋 Hi, I love Hacking and Surfing!!!
+- All exploit repos are private.
