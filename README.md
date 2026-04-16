@@ -1,2 +1,2 @@
 - 👋 Hi, I love Hacking and Surfing!!!
-- All exploit repos are private.
+- All exploit repos and security tool repos are private.
